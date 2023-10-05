@@ -1,0 +1,1 @@
+export { EsqueceuASenha } from "./EsqueceuASenha";

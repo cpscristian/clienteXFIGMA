@@ -1,0 +1,18 @@
+.esqueceu-a-senha {
+  height: 29px;
+  position: relative;
+  width: 139px;
+}
+
+.esqueceu-a-senha .text-wrapper-4 {
+  color: #000000b2;
+  font-family: "Kadwa", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 139px;
+}

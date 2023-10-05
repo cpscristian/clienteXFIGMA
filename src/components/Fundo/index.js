@@ -1,0 +1,1 @@
+export { Fundo } from "./Fundo";

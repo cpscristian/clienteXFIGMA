@@ -1,0 +1,49 @@
+.pagina-login {
+  background-color: #b1f5f780;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.pagina-login .overlap-wrapper {
+  background-color: #b1f5f780;
+  height: 1117px;
+  width: 1728px;
+}
+
+.pagina-login .overlap-3 {
+  height: 1117px;
+  position: relative;
+}
+
+.pagina-login .design-component-instance-node {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.pagina-login .group {
+  height: 617px;
+  left: 498px;
+  position: absolute;
+  top: 254px;
+  width: 731px;
+}
+
+.pagina-login .overlap-4 {
+  height: 617px;
+  position: relative;
+}
+
+.pagina-login .component-12 {
+  left: 285px !important;
+  position: absolute !important;
+  top: 459px !important;
+}
+
+.pagina-login .esqueceu-a-senha-instance {
+  left: 300px !important;
+  position: absolute !important;
+  top: 383px !important;
+}

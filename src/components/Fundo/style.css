@@ -1,0 +1,21 @@
+.fundo {
+  background-image: url(https://c.animaapp.com/bwFxtVDo/img/image-1-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1117px;
+  position: relative;
+  width: 1728px;
+}
+
+.fundo .text-wrapper {
+  color: #000000;
+  font-family: "Kadwa", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1078px;
+  width: 244px;
+}
